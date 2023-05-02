@@ -8,7 +8,7 @@ I designed and developed some features for the E-Learning platform including :
 - Creating a dashboard for Analytics and Reporting with Char.JS to track learner progress, analyze course effectiveness.
 - Working on track users' activities and interactions with the course's materials, providing insights into user behavior.
 
-The complete documentation is coming soon
+The complete documentation is coming soon...
 
 https://user-images.githubusercontent.com/71756594/235031970-72bcc656-81ef-41af-aaa3-56c9f524ceaa.mp4
 
